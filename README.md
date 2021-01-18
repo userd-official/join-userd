@@ -1,4 +1,4 @@
-![](https://userd.xyz/assets/images/logo.png)<br>
+![](https://repository-images.githubusercontent.com/330674596/6ee16400-599b-11eb-96f6-7cdc42ba99db)<br>
 Do you want to become a developer/moderator/partner? Here's how!
 
 ## Become a developer
